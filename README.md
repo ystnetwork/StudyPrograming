@@ -2,7 +2,7 @@
 
 # 一、Java语言
 
-#  [1、开发工具使用及java基础语法](docs\Day1.md) 
+#   [开发工具使用及Java语法基础](docs\Day1.md) 
 
 ## 2、JAVA面向对象基础
 
