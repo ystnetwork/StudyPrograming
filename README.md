@@ -1,2 +1,1 @@
-# StudyPrograming
-呼院编程学习交流
+# 学习编程
